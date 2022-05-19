@@ -4,27 +4,27 @@
 
 -   在“企业视角-表单应用”下，点击左上角“+”按钮，在弹框内填写表单名称及填报人员，点击“确认”按钮，表单草稿添加成功。
 
-![](/master/images/新增表单1.png)
+![新增表单1](https://user-images.githubusercontent.com/49510377/169192410-75f138f1-83db-4315-b8b4-8b936b5080c4.png)
 
 -   点击任意“草稿状态表单”右下角的“。。。”按钮，选择“配置”按钮，即可调整至表单列表页面。
 
-![](/master/images/新增表单2.png)
+![新增表单2](https://user-images.githubusercontent.com/49510377/169192432-bf488468-a1c7-42cc-ba7f-4b6562ff0295.png)
 
 ## 表单配置
 
 -   在“表单列表”点击“新增”按钮，即可跳转至“表单配置”页面。
-
-![](/master/images/表单配置1.png)
+  
+![表单配置1](https://user-images.githubusercontent.com/49510377/169192447-40d7ed7d-6c3e-43b9-82fe-cff1b49cd110.png)
 
 -   在左侧“字段配置”点击任意字段，则该字段在中间页面显示，右侧显示该字段的属性信息，进行字段配置。[^1]
 
 [^1]: 注：“字段标识”是单表下唯一的；“表单标识”是唯一的，不可重复；
 
-![](/master/images/表单配置2.png)
+![表单配置2](https://user-images.githubusercontent.com/49510377/169192474-f103fad2-b303-4b82-8a2a-a8b1dd0b1a88.png)
 
 -   配置完毕后，点击“保存”按钮，则该表单保存成功，跳转至表单列表。
 
-![](/master/images/表单配置3.png)
+![表单配置3](https://user-images.githubusercontent.com/49510377/169192497-77540456-77de-4bdd-b070-2297ff5c9dc1.png)
 
 ## 高级字段级联配置
 
@@ -33,7 +33,7 @@
 
 [^2]: 字段级联仅可关联一个；若当前表单未关联父表单，则“添加级联”仅可选择当前表单和字段；若当前表单已关联父表单，则“添加级联”可选择当前表单和父表单及其字段；
 
-![](/master/images/高级字段级联配置1.png)
+![高级字段级联配置1](https://user-images.githubusercontent.com/49510377/169192531-8871ef17-82c6-4f76-8654-21bfd98a2835.png)
 
 -   固定字段级联关联关系：
     -   “总包合同”向上关联“项目”，若未进行关联，在填报时，“总包合同”字段数据为空；
@@ -46,32 +46,33 @@
 
 -   若需要建立子表单，则重复步骤3\~步骤5建立新表单。建立完毕后，点击“预计做—父表单”的“编制”按钮，进入配置页面。
 
-![](/master/images/表单关联子表1.png)
+![表单关联子表1](https://user-images.githubusercontent.com/49510377/169192544-1dd917d0-2cf5-432c-847c-a3fe3a10bf26.png)
 
 -   在页面下方点击“关联子表”按钮，选择已建立的“子表单”，点击“确定”按钮，关联子表单成功。
 
-![](/master/images/表单关联子表2.png)
+![表单关联子表2](https://user-images.githubusercontent.com/49510377/169192558-126da4ce-5fba-4d61-b761-ffb572399e28.png)
 
-![](/master/images/表单关联子表3.png)
+![表单关联子表3](https://user-images.githubusercontent.com/49510377/169192577-1328aad8-b264-483e-b7c4-611cbb46e648.png)
 
 ## 表单填报
 
 -   填报人在“个人视角-我的表单”内，点击需填报的表单，即可跳转至表单填报页面。
 
-![](/master/images/表单填报1.png)
+![表单填报1](https://user-images.githubusercontent.com/49510377/169192589-6f2c5166-2740-46df-8d56-5486b8071418.png)
 
 -   点击“返回”按钮，返回至表单填报列表页面，默认展示
 
-![](/master/images/表单填报2.png)
+![表单填报2](https://user-images.githubusercontent.com/49510377/169192597-16eea842-f4ed-420f-9bb0-fb7d63976001.png)
 
 -   在左侧选择表单，点击“新增”按钮，填写表单数据，点击“提交表单”，则新增表单成功；
 
-![](/master/images/表单填报3.png)
+![表单填报3](https://user-images.githubusercontent.com/49510377/169192606-80295940-f1b3-4b5a-a813-34f798f8464e.png)
 
 -   若此表单有关联子表，点击“提交表单”，则下方显示被关联的子表填报列表；
 
-![](/master/images/表单填报4.png)
+![表单填报4](https://user-images.githubusercontent.com/49510377/169192624-bbba7841-33ad-4771-9c15-169e96e80894.png)
 
 -   在子表内填写数据，点击“保存”按钮，则该条子表数据填写成功；
 
-![](/master/images/表单填报5.png)
+![表单填报5](https://user-images.githubusercontent.com/49510377/169192634-b071d8d8-a781-44e9-af11-56108afb6bdf.png)
+
